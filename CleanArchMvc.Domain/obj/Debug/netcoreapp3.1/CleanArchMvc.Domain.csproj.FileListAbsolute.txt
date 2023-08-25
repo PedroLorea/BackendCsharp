@@ -1,0 +1,10 @@
+C:\Dev\CsCurso\CleanArchMvc.Domain\bin\Debug\netcoreapp3.1\CleanArchMvc.Domain.deps.json
+C:\Dev\CsCurso\CleanArchMvc.Domain\bin\Debug\netcoreapp3.1\CleanArchMvc.Domain.dll
+C:\Dev\CsCurso\CleanArchMvc.Domain\bin\Debug\netcoreapp3.1\CleanArchMvc.Domain.pdb
+C:\Dev\CsCurso\CleanArchMvc.Domain\obj\Debug\netcoreapp3.1\CleanArchMvc.Domain.csproj.AssemblyReference.cache
+C:\Dev\CsCurso\CleanArchMvc.Domain\obj\Debug\netcoreapp3.1\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CsCurso\CleanArchMvc.Domain\obj\Debug\netcoreapp3.1\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+C:\Dev\CsCurso\CleanArchMvc.Domain\obj\Debug\netcoreapp3.1\CleanArchMvc.Domain.AssemblyInfo.cs
+C:\Dev\CsCurso\CleanArchMvc.Domain\obj\Debug\netcoreapp3.1\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\CsCurso\CleanArchMvc.Domain\obj\Debug\netcoreapp3.1\CleanArchMvc.Domain.dll
+C:\Dev\CsCurso\CleanArchMvc.Domain\obj\Debug\netcoreapp3.1\CleanArchMvc.Domain.pdb

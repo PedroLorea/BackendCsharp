@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CleanArchMvc.Infra.IoC
+build_property.ProjectDir = C:\Dev\CsCurso\CleanArchMvc.Infra.IoC\
